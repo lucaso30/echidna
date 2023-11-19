@@ -21,7 +21,7 @@ More seriously, Echidna is a Haskell program designed for fuzzing/property-based
 .. and [a beautiful high-resolution handcrafted logo](https://raw.githubusercontent.com/crytic/echidna/master/echidna.png).
 
 <a href="https://i.imgur.com/saFWti4.png"><img src="https://i.imgur.com/saFWti4.png" width="650"/></a>
-
+ok
 ## Usage
 
 ### Executing the test runner
